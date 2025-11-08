@@ -1,0 +1,37 @@
+# 🇲🇿 Kotlin Estudos - Munhu Project
+
+**210 dias de estudo intensivo** para desenvolver a primeira rede social moçambicana.
+
+## 👨‍💻 Sobre
+
+- **Nome:** Francisco, 17 anos
+- **Empresa:** THE FRA LABS
+- **Objetivo:** Dominar desenvolvimento Android para criar **Munhu**
+- **Timeline:** Novembro 2024 - Junho 2025 (7 meses)
+- **Dedicação:** 4-6 horas/dia
+
+## 📚 Roadmap
+
+- [ ] **Mês 1-2:** Kotlin Sólido
+- [ ] **Mês 3-4:** Jetpack Compose + UI
+- [ ] **Mês 5:** Firebase
+- [ ] **Mês 6:** Arquitetura (MVVM)
+- [ ] **Mês 7:** Revisão + Preparação
+
+## 📊 Progresso
+████░░░░░░░░░░░░░░░░░░░░░░░░░░ 1/210 dias
+## 🔥 Streak Atual
+
+- **Commits consecutivos:** 1 dia
+- **Total de aulas:** 1
+- **Linhas de código:** ~30
+
+## 🎯 Próximo Milestone
+
+**Aula 10:** Dominar funções e loops
+
+---
+
+**"Consistência > Intensidade"** 💪
+
+Desenvolvido no 📱 Termux | Moçambique 🇲🇿
