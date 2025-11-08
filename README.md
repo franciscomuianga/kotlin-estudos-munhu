@@ -1,4 +1,10 @@
-# 🇲🇿 Kotlin Estudos - Munhu Project
+## 📊 Progresso
+████░░░░░░░░░░░░░░░░░░░░░░░░░░ 3/210 dias
+## 🔥 Streak Atual
+
+- **Commits consecutivos:** 3 dias
+- **Total de aulas:** 3
+- **Linhas de código:** ~350# 🇲🇿 Kotlin Estudos - Munhu Project
 
 **210 dias de estudo intensivo** para desenvolver a primeira rede social moçambicana.
 
