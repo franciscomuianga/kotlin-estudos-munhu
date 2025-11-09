@@ -24,20 +24,11 @@
 - [ ] **Mês 6:** Arquitetura (MVVM)
 - [ ] **Mês 7:** Revisão + Preparação
 
+
 ## 📊 Progresso
-████░░░░░░░░░░░░░░░░░░░░░░░░░░ 1/210 dias
+████░░░░░░░░░░░░░░░░░░░░░░░░░░ 4/210 dias
 ## 🔥 Streak Atual
 
-- **Commits consecutivos:** 1 dia
-- **Total de aulas:** 1
-- **Linhas de código:** ~30
-
-## 🎯 Próximo Milestone
-
-**Aula 10:** Dominar funções e loops
-
----
-
-**"Consistência > Intensidade"** 💪
-
-Desenvolvido no 📱 Termux | Moçambique 🇲🇿
+- **Commits consecutivos:** 4 dias
+- **Total de aulas:** 4
+- **Linhas de código:** ~600
