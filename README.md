@@ -26,9 +26,9 @@
 
 
 ## 📊 Progresso
-████░░░░░░░░░░░░░░░░░░░░░░░░░░ 4/210 dias
+████░░░░░░░░░░░░░░░░░░░░░░░░░░ 5/210 dias
 ## 🔥 Streak Atual
 
-- **Commits consecutivos:** 4 dias
-- **Total de aulas:** 4
-- **Linhas de código:** ~600
+- **Commits consecutivos:** 5 dias  
+- **Total de aulas:** 5
+- **Linhas de código:** ~900
