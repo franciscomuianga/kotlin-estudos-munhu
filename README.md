@@ -1,10 +1,4 @@
-## 📊 Progresso
-████░░░░░░░░░░░░░░░░░░░░░░░░░░ 3/210 dias
-## 🔥 Streak Atual
-
-- **Commits consecutivos:** 3 dias
-- **Total de aulas:** 3
-- **Linhas de código:** ~350# 🇲🇿 Kotlin Estudos - Munhu Project
+# 🇲🇿 Kotlin Estudos - Munhu Project
 
 **210 dias de estudo intensivo** para desenvolver a primeira rede social moçambicana.
 
@@ -16,19 +10,111 @@
 - **Timeline:** Novembro 2024 - Junho 2025 (7 meses)
 - **Dedicação:** 4-6 horas/dia
 
-## 📚 Roadmap
+## 🎉 SEMANA 1 COMPLETA!
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7/210 dias
+## 📚 Conteúdo Estudado
 
-- [ ] **Mês 1-2:** Kotlin Sólido
-- [ ] **Mês 3-4:** Jetpack Compose + UI
-- [ ] **Mês 5:** Firebase
-- [ ] **Mês 6:** Arquitetura (MVVM)
-- [ ] **Mês 7:** Revisão + Preparação
+### ✅ Semana 1 - Fundamentos Kotlin (COMPLETA!)
 
+#### Dia 1: Variáveis e Tipos
+- val vs var
+- Tipos primitivos
+- Inferência de tipos
 
-## 📊 Progresso
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6/210 dias
+#### Dia 2: Operadores e Conversões
+- Operadores aritméticos, lógicos, comparação
+- Type casting
+- Conversões seguras
+
+#### Dia 3: Strings e Input
+- Interpolação de strings
+- Métodos de string
+- readln() e validações
+
+#### Dia 4: Condicionais
+- if/else/when
+- If como expressão
+- Condições compostas
+
+#### Dia 5: Loops
+- for com ranges
+- while/do-while
+- break/continue
+
+#### Dia 6: Funções
+- Parâmetros e retorno
+- Valores padrão
+- Lambdas
+- Higher-order functions
+
+#### Dia 7: **PROJETO FINAL - MUNHU CLI V1.0** 🎉
+- Sistema completo de rede social
+- 600+ linhas de código
+- 20+ funções
+- Todas as funcionalidades principais
+
+## 🏆 Conquistas
+
+- ✅ **7 dias consecutivos de estudo**
+- ✅ **15+ commits no GitHub**
+- ✅ **~1900 linhas de código escritas**
+- ✅ **1 projeto completo funcional**
+- ✅ **Fundamentos do Kotlin dominados**
+
 ## 🔥 Streak Atual
 
-- **Commits consecutivos:** 6 dias  
-- **Total de aulas:** 6
-- **Linhas de código:** ~1300
+**7 DIAS CONSECUTIVOS!** 🔥🔥🔥
+🟩🟩🟩🟩🟩🟩🟩 Semana 1
+⬜⬜⬜⬜⬜⬜⬜ Semana 2
+⬜⬜⬜⬜⬜⬜⬜ Semana 3
+## 📊 Estatísticas
+
+- **Commits consecutivos:** 7 dias
+- **Total de aulas:** 7
+- **Linhas de código:** ~1900
+- **Exercícios completos:** 30+
+- **Projetos:** 1 (Munhu CLI)
+- **Conceitos dominados:** 15+
+
+## 🎯 Roadmap
+
+- [x] **Semana 1:** Fundamentos Kotlin ✅
+- [ ] **Semana 2-8:** Kotlin Avançado + OOP
+- [ ] **Semana 9-16:** Jetpack Compose + UI
+- [ ] **Semana 17-20:** Firebase
+- [ ] **Semana 21-24:** Arquitetura (MVVM)
+- [ ] **Semana 25-30:** Revisão + Preparação
+
+## 🚀 Próximos Passos
+
+**Semana 2:** POO e Coleções Avançadas
+- Classes e Objetos
+- Herança e Polimorfismo
+- Interfaces
+- Enum classes
+- Data classes avançadas
+- Coleções (List, Set, Map)
+- Operações em coleções
+
+## 📂 Estrutura do Repositório
+kotlin-estudos-munhu/
+├── aula01/ - Variáveis
+├── aula02/ - Operadores
+├── aula03/ - Strings
+├── aula04/ - Condicionais
+├── aula05/ - Loops
+├── aula06/ - Funções
+├── aula07-projeto-final/ - MUNHU CLI V1.0 🎉
+└── README.md
+## 🇲🇿 Para Moçambique
+
+Este projeto é desenvolvido com o objetivo de criar a primeira rede social moçambicana, 
+conectando pessoas, promovendo cultura local e impulsionando o ecossistema tech do país.
+
+---
+
+**"Consistência > Intensidade"** 💪
+
+Desenvolvido no 📱 Termux | Moçambique 🇲🇿
+
+*Última atualização: Dia 7 - Semana 1 completa! 🎉*
