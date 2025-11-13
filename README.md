@@ -2,7 +2,31 @@
 
 **210 dias de estudo intensivo** para desenvolver a primeira rede social moçambicana.
 
-## 👨‍💻 Sobre
+## 📊 Progresso
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8/270 dias
+## 🔥 Streak Atual
+
+**8 DIAS CONSECUTIVOS!** 🔥🔥🔥
+
+- **Commits consecutivos:** 8 dias
+- **Total de aulas:** 8
+- **Linhas de código:** ~2500
+
+## 📚 Conteúdo Estudado
+
+### ✅ Semana 1 - Fundamentos Kotlin (COMPLETA!)
+[... conteúdo anterior ...]
+
+### 🔄 Semana 2 - POO e Coleções Avançadas (EM ANDAMENTO)
+
+#### Dia 8: Classes e Objetos ✅
+- Classes básicas
+- Construtores (primários e secundários)
+- Propriedades e métodos
+- Init blocks
+- Getters e setters personalizados
+- Companion objects
+- Object declarations (Singleton)## 👨‍💻 Sobre
 
 - **Nome:** Francisco, 17 anos
 - **Empresa:** THE FRA LABS
