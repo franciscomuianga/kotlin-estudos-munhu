@@ -142,3 +142,24 @@ conectando pessoas, promovendo cultura local e impulsionando o ecossistema tech 
 Desenvolvido no 📱 Termux | Moçambique 🇲🇿
 
 *Última atualização: Dia 7 - Semana 1 completa! 🎉*
+
+## 📊 Progresso
+████░░░░░░░░░░░░░░░░░░░░░░░░░░ 10/270 dias
+## 🔥 Streak Atual
+
+**10 DIAS CONSECUTIVOS!** 🔥🔥🔥
+
+- **Commits consecutivos:** 10 dias
+- **Total de aulas:** 10
+- **Linhas de código:** ~4000
+
+### 🔄 Semana 2 - POO e Coleções Avançadas (EM ANDAMENTO)
+
+#### Dia 8: Classes e Objetos ✅
+#### Dia 9: Herança e Polimorfismo ✅
+#### Dia 10: Interfaces ✅
+- Interfaces básicas e múltiplas
+- Propriedades e métodos padrão
+- Interface delegation (by)
+- Interface vs Abstract Class
+- Sistema completo de permissões
