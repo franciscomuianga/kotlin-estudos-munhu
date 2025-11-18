@@ -144,22 +144,24 @@ Desenvolvido no 📱 Termux | Moçambique 🇲🇿
 *Última atualização: Dia 7 - Semana 1 completa! 🎉*
 
 ## 📊 Progresso
-████░░░░░░░░░░░░░░░░░░░░░░░░░░ 10/270 dias
+████░░░░░░░░░░░░░░░░░░░░░░░░░░ 11/270 dias
 ## 🔥 Streak Atual
 
-**10 DIAS CONSECUTIVOS!** 🔥🔥🔥
+**11 DIAS CONSECUTIVOS!** 🔥🔥🔥
 
-- **Commits consecutivos:** 10 dias
-- **Total de aulas:** 10
-- **Linhas de código:** ~4000
+- **Commits consecutivos:** 11 dias
+- **Total de aulas:** 11
+- **Linhas de código:** ~5000
 
 ### 🔄 Semana 2 - POO e Coleções Avançadas (EM ANDAMENTO)
 
 #### Dia 8: Classes e Objetos ✅
 #### Dia 9: Herança e Polimorfismo ✅
 #### Dia 10: Interfaces ✅
-- Interfaces básicas e múltiplas
-- Propriedades e métodos padrão
-- Interface delegation (by)
-- Interface vs Abstract Class
-- Sistema completo de permissões
+#### Dia 11: Data Classes Avançadas ✅
+- Data classes básicas
+- Copy, equals, hashCode, toString
+- Destructuring declarations
+- Data classes aninhadas
+- Padrões: State, Result wrapper
+- Sistema completo de estado
