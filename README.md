@@ -144,24 +144,25 @@ Desenvolvido no 📱 Termux | Moçambique 🇲🇿
 *Última atualização: Dia 7 - Semana 1 completa! 🎉*
 
 ## 📊 Progresso
-████░░░░░░░░░░░░░░░░░░░░░░░░░░ 11/270 dias
+█████░░░░░░░░░░░░░░░░░░░░░░░░░ 12/270 dias
 ## 🔥 Streak Atual
 
-**11 DIAS CONSECUTIVOS!** 🔥🔥🔥
+**12 DIAS CONSECUTIVOS!** 🔥🔥🔥
 
-- **Commits consecutivos:** 11 dias
-- **Total de aulas:** 11
-- **Linhas de código:** ~5000
+- **Commits consecutivos:** 12 dias
+- **Total de aulas:** 12
+- **Linhas de código:** ~6000
 
-### 🔄 Semana 2 - POO e Coleções Avançadas (EM ANDAMENTO)
+### 🔄 Semana 2 - POO e Coleções Avançadas (85% COMPLETA!)
 
 #### Dia 8: Classes e Objetos ✅
 #### Dia 9: Herança e Polimorfismo ✅
 #### Dia 10: Interfaces ✅
 #### Dia 11: Data Classes Avançadas ✅
-- Data classes básicas
-- Copy, equals, hashCode, toString
-- Destructuring declarations
-- Data classes aninhadas
-- Padrões: State, Result wrapper
-- Sistema completo de estado
+#### Dia 12: Coleções Avançadas ✅
+- List, Set, Map profundamente
+- Operações funcionais completas
+- Reduce, fold, groupBy
+- Sequences e lazy evaluation
+- Performance e otimizações
+- Sistema de análise de feed
